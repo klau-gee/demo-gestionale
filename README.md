@@ -61,34 +61,34 @@ Il progetto è stato pensato per essere utilizzato quotidianamente dal personale
 ## Screenshot
 
 ### Login
-<img src="./screenshots/01_login.png" width="700"/>
+<img src="./Screenshot/01_login.png" width="700"/>
 
 ### Dashboard / Agenda
-<img src="./screenshots/02_dashboard.png" width="700"/>
-
-### Lista viaggi
-<img src="./screenshots/03_trips_list.png" width="700"/>
-
-### Lista viaggi generati da linee
-<img src="./screenshots/05_trips_list_shuttle.png" width="700"/>
+<img src="./Screenshot/02_dashboard.png" width="700"/>
 
 ### Creazione viaggio
-<img src="./screenshots/04_trip_create.png" width="700"/>
+<img src="./Screenshot/03_trip_create.png" width="700"/>
+
+### Lista viaggi di linea
+<img src="./Screenshot/04_line_trips_list.png" width="700"/>
+
+### Lista viaggi non di linea
+<img src="./Screenshot/05_others_trips_list.png" width="700"/>
 
 ### Modifica viaggio
-<img src="./screenshots/06_trip_edit.png" width="700"/>
+<img src="./Screenshot/06_trip_edit.png" width="700"/>
 
 ### Lista veicoli
-<img src="./screenshots/07_vehicles_list.png" width="700"/>
-
-### Scadenze veicolo
-<img src="./screenshots/09_vehicles_expirations.png" width="700"/>
+<img src="./Screenshot/07_vehicles_list.png" width="700"/>
 
 ### Creazione veicolo
-<img src="./screenshots/08_vehicle_form.png" width="700"/>
+<img src="./Screenshot/08_vehicles_form.png" width="700"/>
+
+### Scadenze veicolo
+<img src="./Screenshot/09_vehicles_expirations.png" width="700"/>
 
 ### Lista autisti
-<img src="./screenshots/10_drivers_list.png" width="700"/>
+<img src="./Screenshot/10_drivers_list.png" width="700"/>
 
 ---
 
